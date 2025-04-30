@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/chloefeehan/Desktop/python/GSB-545/gsb545_3.11
+set -gx VIRTUAL_ENV /Users/chloefeehan/Projects/GSB-545/gsb545_3.11
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
